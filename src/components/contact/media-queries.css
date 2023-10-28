@@ -1,0 +1,13 @@
+@media (max-width: 600px) {
+  .contact {
+    gap: 10px;
+  }
+
+  .contact-title {
+    font-size: 3rem;
+  }
+
+  .contact-title::before {
+    width: 250px;
+  }
+}

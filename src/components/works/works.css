@@ -1,0 +1,11 @@
+.works {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.works-title {
+  font-size: 5rem;
+  color: var(--text);
+}
