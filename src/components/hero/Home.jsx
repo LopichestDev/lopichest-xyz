@@ -10,7 +10,7 @@ const Home = ({ sectionRef }) => {
         <div className="home-text-container">
           <div className="home-text-container-2">
             <h1 className="home-title animate__animated animate__bounceInLeft">
-              HI, I AM <span className="highlight">SERGIO</span>
+              HI, I'm <span className="highlight">SERGIO</span>
               <br />
               FULL-STACK DEVELOPER
             </h1>
