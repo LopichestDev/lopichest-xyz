@@ -28,7 +28,7 @@ const Socials = () => {
       <div className="social-main">
         <div className="social-email">
           <a
-            href="http://www.gmail.com"
+            href="mailto:contacto@lopichest.xyz"
             target="_blank"
             rel="noopener noreferrer"
             className="social-link"
